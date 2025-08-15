@@ -1,0 +1,2 @@
+This is my first file edit through Git.
+Adding sample content for CODSOFT project.
